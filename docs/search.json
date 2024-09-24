@@ -16,9 +16,37 @@
   {
     "objectID": "resume.html",
     "href": "resume.html",
-    "title": "Fahim Ahmed",
+    "title": "Curriculum Vitae",
     "section": "",
-    "text": "Here is your resume"
+    "text": "Fahim Ahmed || 803-904-6752 || fahim.ahmed.rd{at}gmail.com"
+  },
+  {
+    "objectID": "resume.html#work-experience",
+    "href": "resume.html#work-experience",
+    "title": "Curriculum Vitae",
+    "section": "WORK EXPERIENCE",
+    "text": "WORK EXPERIENCE\n\nAssociate System Performance Engineer\nSCDOT Sep 2022 – Present\n\n\nInstructor\nUniversity of South Carolina Aug 2019 – Dec 2022\n\n\nGraduate Research Assistant\nUniversity of South Carolina Aug 2015 – Dec 2022"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Curriculum Vitae",
+    "section": "EDUCATION",
+    "text": "EDUCATION\nPh.D. Candidate – Civil Engineering  University of South Carolina Present\nMaster in Applied Statistics –   University of South Carolina 2020\nMaster of Science –   University of South Carolina 2018"
+  },
+  {
+    "objectID": "resume.html#presentations-and-workshops",
+    "href": "resume.html#presentations-and-workshops",
+    "title": "Curriculum Vitae",
+    "section": "PRESENTATIONS AND WORKSHOPS",
+    "text": "PRESENTATIONS AND WORKSHOPS\n\nTalk: Misadventures with Reproducibility in R (30 Nov 2022, R Ladies Melbourne Meetup)\nTalk: Designing R Packages (4 Oct 2022, Monash EBS Data Science Research Software Study Group)\nTalk: Quarto Websites as Research Compendiums (16 Aug 2022, Monash EBS Data Science Research Software Study Group)\nWorkshop: Writing academic papers with Rmarkdown and friends (9 Aug 2022, Monash University)"
+  },
+  {
+    "objectID": "resume.html#references",
+    "href": "resume.html#references",
+    "title": "Curriculum Vitae",
+    "section": "References",
+    "text": "References\nAvailable upon request"
   },
   {
     "objectID": "about.html",
@@ -32,7 +60,7 @@
     "href": "index.html",
     "title": "Fahim Ahmed",
     "section": "",
-    "text": "Hello! I am Fahim. Nice to meet you!"
+    "text": "Hi, my name is Fahim Ahmed and I am a Ph.D. candidate studying Civil Engineering (Dissertation on Transportation Engr.) at University of South Carolina.\nI am interested in the topic of freight system performance, vehicle routing, and traffic safety. Currently, I am working with Dr. Nathan Huynh to develop a solution for truck (re-)routing under disruptive environment in a distribution network."
   },
   {
     "objectID": "posts/welcome/index.html",

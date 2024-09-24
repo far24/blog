@@ -12,7 +12,9 @@
     "index.html": "457d79d9"
   },
   "resume.qmd": {
-    "resume.html": "f5f61acb"
+    "resume.html": "f5f61acb",
+    "resume.pdf": "cc56152f",
+    "resume.tex": "02f54357"
   },
   "projects.qmd": {
     "projects.html": "a98627a7"
