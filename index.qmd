@@ -15,6 +15,6 @@ about:
       href: https://github.com
 ---
 
-Hi, my name is Fahim Ahmed and I am a Ph.D. candidate studying Civil Engineering (Dissertation on Transportation Engr.) at University of South Carolina.
+Fahim Ahmed is an Associate System Performance Engineer with South Carolina Department of Transportation (SCDOT). In the Office of Planning at SCDOT, he prepares and analyzes tranportation data to develop metrics for data-driven decision and travel demand modeling.
 
-I am interested in the topic of freight system performance, vehicle routing, and traffic safety. Currently, I am working with Dr. Nathan Huynh to develop a solution for truck (re-)routing under disruptive environment in a distribution network.
+Fahim Ahmed is also a Ph.D. candidate studying Civil Engineering (Dissertation on Transportation Engr.) at University of South Carolina. His research interest is in the topic of freight system performance, vehicle routing, and traffic safety. Currently, he is working with Dr. Nathan Huynh to develop a solution for truck (re-)routing under disruptive environment in a distribution network.
