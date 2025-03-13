@@ -1,0 +1,16 @@
+---
+title: "Notes"
+listing:
+  contents: notes
+  sort: "date desc"
+  type: table
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+title-block-banner-color: "Blue"
+format:
+  html:
+    code-tools: false
+---

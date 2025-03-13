@@ -7,11 +7,18 @@
     "text": "Date\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\n \n\n\nTest Python Code for Quarto\n\n\nFA \n\n\n\n\nApr 18, 2023\n\n\nPost With Code\n\n\nHarlow Malloc\n\n\n\n\nApr 15, 2023\n\n\nWelcome To My Blog\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/test_with_python/index.html",
-    "href": "posts/test_with_python/index.html",
-    "title": "Test Python Code for Quarto",
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
     "section": "",
-    "text": "Code\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2* np.pi *r \nfig, ax = plt.subplots(subplot_kw={'projection': 'polar'})\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()"
+    "text": "This is a post with executable code.\n\n\nCode\n1 + 1\n\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
     "objectID": "resume.html",
@@ -25,14 +32,14 @@
     "href": "resume.html#work-experience",
     "title": "Curriculum Vitae",
     "section": "WORK EXPERIENCE",
-    "text": "WORK EXPERIENCE\n\nAssociate System Performance Engineer\nSCDOT Sep 2022 – Present\n\n\nInstructor\nUniversity of South Carolina Aug 2019 – Dec 2022\n\n\nGraduate Research Assistant\nUniversity of South Carolina Aug 2015 – Dec 2022"
+    "text": "WORK EXPERIENCE\n\nHighway Safety Design Engineer II\nSCDOT Mar 2025 – Present\n\n\nAssociate System Performance Engineer\nSCDOT Sep 2022 – Feb 2025\n\n\nInstructor\nUniversity of South Carolina Aug 2019 – Dec 2022\n\n\nGraduate Research Assistant\nUniversity of South Carolina Aug 2015 – Dec 2022"
   },
   {
     "objectID": "resume.html#education",
     "href": "resume.html#education",
     "title": "Curriculum Vitae",
     "section": "EDUCATION",
-    "text": "EDUCATION\nPh.D. Candidate – Civil Engineering  University of South Carolina Present\nMaster in Applied Statistics –   University of South Carolina 2020\nMaster of Science –   University of South Carolina 2018"
+    "text": "EDUCATION\nPh.D. Candidate – Civil Engineering  University of South Carolina Present\nMaster in Applied Statistics –  University of South Carolina 2020\nMaster of Science –  University of South Carolina 2018"
   },
   {
     "objectID": "resume.html#presentations-and-workshops",
@@ -53,27 +60,34 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this blog"
+    "text": "Fahim Ahmed is working as a Associate System Performance Engineer with South Carolina Department of Transportation (SCDOT). In his role in the Office of Planning at SCDOT, he prepares and analyzes tranportation data to develop performance metrics and statewide travel demand model to help stakeholders make data-driven decision.\nFahim Ahmed is also a Ph.D. candidate studying Civil Engineering (Dissertation on Transportation Engr.) at University of South Carolina. His research interest is in the topic of freight system performance, vehicle routing, and traffic safety. Currently, he is working with Dr. Nathan Huynh to develop a solution for truck (re-)routing under disruptive environment in a distribution network."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Fahim Ahmed",
     "section": "",
-    "text": "Hi, my name is Fahim Ahmed and I am a Ph.D. candidate studying Civil Engineering (Dissertation on Transportation Engr.) at University of South Carolina.\nI am interested in the topic of freight system performance, vehicle routing, and traffic safety. Currently, I am working with Dr. Nathan Huynh to develop a solution for truck (re-)routing under disruptive environment in a distribution network."
+    "text": "Fahim Ahmed is working as a Highway Safety Design Engineer with South Carolina Department of Transportation (SCDOT). In his role in the Traffic Safety Office at SCDOT, he prepares highway designs for safety improvement projects."
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "notes/Ivy-Lee-method-of-Gets-Things-Done/index.html",
+    "href": "notes/Ivy-Lee-method-of-Gets-Things-Done/index.html",
+    "title": "Ivy Lee method of Gets Things Done",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "The process of Ivy Lee Method of getting things done is as follows:\n\nAt the end of day, write down 6 tasks with priority to do the next day.\nStart with first task and keep working on it until finished.\nMove to next task if first task is finished.\nRepeat the Steps 1-3.\n\n\nSpill-over of tasks to the following day is allowed."
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "posts/test_with_python/index.html",
+    "href": "posts/test_with_python/index.html",
+    "title": "Test Python Code for Quarto",
     "section": "",
-    "text": "This is a post with executable code.\n\n\nCode\n1 + 1\n\n\n[1] 2"
+    "text": "Code\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2* np.pi *r \nfig, ax = plt.subplots(subplot_kw={'projection': 'polar'})\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()"
+  },
+  {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Notes",
+    "section": "",
+    "text": "Title\n\n\nAuthor\n\n\n\n\n\n\nIvy Lee method of Gets Things Done\n\n\nFA \n\n\n\n\n\nNo matching items"
   }
 ]

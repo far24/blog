@@ -1,0 +1,14 @@
+---
+title: "Ivy Lee method of Gets Things Done"
+author: "FA"
+---
+
+The process of Ivy Lee Method of getting things done is as follows:
+
+1) At the end of day, write down 6 tasks with priority to do the next day.
+2) Start with first task and keep working on it until finished.
+3) Move to next task if first task is finished.
+4) Repeat the Steps 1-3.
+
+* Spill-over of tasks to the following day is allowed.
+

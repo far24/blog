@@ -8,11 +8,13 @@ website:
     left: 
       - text: Home
         href: index.qmd
-      - text: Projects
+      - text: Posts
         href: projects.qmd
+      - text: Notes
+        href: notes.qmd
+    right:
       - text: CV
         href: resume.qmd
-    right:
       - about.qmd
       - icon: github
         href: https://github.com/

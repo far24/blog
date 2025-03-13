@@ -1,8 +1,9 @@
 ---
 title: "About"
-image: profile.jpg
+image: Ahmed5x7.JPG
+echo: false
 about:
-  template: jolla
+  template: trestles
   links:
     - icon: twitter
       text: Twitter
@@ -15,4 +16,6 @@ about:
       href: https://github.com
 ---
 
-About this blog
+Fahim Ahmed is working as a Associate System Performance Engineer with South Carolina Department of Transportation (SCDOT). In his role in the Office of Planning at SCDOT, he prepares and analyzes tranportation data to develop performance metrics and statewide travel demand model to help stakeholders make data-driven decision.
+
+Fahim Ahmed is also a Ph.D. candidate studying Civil Engineering (Dissertation on Transportation Engr.) at University of South Carolina. His research interest is in the topic of freight system performance, vehicle routing, and traffic safety. Currently, he is working with Dr. Nathan Huynh to develop a solution for truck (re-)routing under disruptive environment in a distribution network.
