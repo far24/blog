@@ -13,9 +13,10 @@ website:
       - text: Notes
         href: notes.qmd
     right:
+      - text: About Site
+        href: about.qmd
       - text: CV
         href: resume.qmd
-      - about.qmd
       - icon: github
         href: https://github.com/
       - icon: twitter

@@ -12,4 +12,6 @@ about:
       href: https://github.com
 ---
 
-Fahim Ahmed is working as a Highway Safety Design Engineer with South Carolina Department of Transportation (SCDOT). In his role in the Traffic Safety Office at SCDOT, he prepares highway designs for safety improvement projects.
+**Fahim Ahmed** is working as a Highway Safety Design Engineer with the **South Carolina Department of Transportation (SCDOT)**. In his role in the Traffic Safety Office at SCDOT, he prepares Roadway Design Plans for Intersection Improvement Projects.  
+
+**Fahim Ahmed** is a Ph.D. candidate studying Civil Engineering (Dissertation on Transportation Engr.) at **University of South Carolina**. His research interest is in the topic of freight system performance, vehicle routing, and traffic safety. Currently, he is working with **Dr. Nathan Huynh** (https://engineering.unl.edu/civil/person/nathan-huynh/) to develop a solution for truck (re-)routing under disruptive environment in a distribution network.

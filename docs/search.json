@@ -4,70 +4,70 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Date\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\n \n\n\nTest Python Code for Quarto\n\n\nFA \n\n\n\n\nApr 18, 2023\n\n\nPost With Code\n\n\nHarlow Malloc\n\n\n\n\nApr 15, 2023\n\n\nWelcome To My Blog\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code.\n\n\nCode\n1 + 1\n\n\n[1] 2"
-  },
-  {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Date\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\n\n\n\n\n\nMar 13, 2025\n\n\nHow to import raster / image in Geopak\n\n\nFahim Ahmed\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "resume.html",
     "href": "resume.html",
-    "title": "Curriculum Vitae",
+    "title": "Fahim Ahmed, MS, EIT",
     "section": "",
     "text": "Fahim Ahmed || 803-904-6752 || fahim.ahmed.rd{at}gmail.com"
   },
   {
+    "objectID": "resume.html#about",
+    "href": "resume.html#about",
+    "title": "Fahim Ahmed, MS, EIT",
+    "section": "ABOUT",
+    "text": "ABOUT\nI am a Highway Designer at the SCDOT."
+  },
+  {
     "objectID": "resume.html#work-experience",
     "href": "resume.html#work-experience",
-    "title": "Curriculum Vitae",
+    "title": "Fahim Ahmed, MS, EIT",
     "section": "WORK EXPERIENCE",
-    "text": "WORK EXPERIENCE\n\nHighway Safety Design Engineer II\nSCDOT Mar 2025 – Present\n\n\nAssociate System Performance Engineer\nSCDOT Sep 2022 – Feb 2025\n\n\nInstructor\nUniversity of South Carolina Aug 2019 – Dec 2022\n\n\nGraduate Research Assistant\nUniversity of South Carolina Aug 2015 – Dec 2022"
+    "text": "WORK EXPERIENCE\n\nHighway Safety Design Engineer II\nSCDOT Mar 2025 – Present\n\n\nAssociate System Performance Engineer\nSCDOT Sep 2022 – Feb 2025\n\n\nGraduate Research Assistant\nUniversity of South Carolina Aug 2015 – Dec 2022"
   },
   {
     "objectID": "resume.html#education",
     "href": "resume.html#education",
-    "title": "Curriculum Vitae",
+    "title": "Fahim Ahmed, MS, EIT",
     "section": "EDUCATION",
-    "text": "EDUCATION\nPh.D. Candidate – Civil Engineering  University of South Carolina Present\nMaster in Applied Statistics –  University of South Carolina 2020\nMaster of Science –  University of South Carolina 2018"
+    "text": "EDUCATION\nPh.D. Candidate – Civil Engineering  University of South Carolina Present\nMaster in Applied Statistics –  University of South Carolina 2020\nMaster of Science –  University of South Carolina 2018\nBachelor of Science –  Bangladesh University of Engr. & Tech. (BUET) 2014"
+  },
+  {
+    "objectID": "resume.html#teaching",
+    "href": "resume.html#teaching",
+    "title": "Fahim Ahmed, MS, EIT",
+    "section": "TEACHING",
+    "text": "TEACHING\n\nInstructor\nUniversity of South Carolina Aug 2019 – Dec 2022"
   },
   {
     "objectID": "resume.html#presentations-and-workshops",
     "href": "resume.html#presentations-and-workshops",
-    "title": "Curriculum Vitae",
+    "title": "Fahim Ahmed, MS, EIT",
     "section": "PRESENTATIONS AND WORKSHOPS",
-    "text": "PRESENTATIONS AND WORKSHOPS\n\nTalk: Misadventures with Reproducibility in R (30 Nov 2022, R Ladies Melbourne Meetup)\nTalk: Designing R Packages (4 Oct 2022, Monash EBS Data Science Research Software Study Group)\nTalk: Quarto Websites as Research Compendiums (16 Aug 2022, Monash EBS Data Science Research Software Study Group)\nWorkshop: Writing academic papers with Rmarkdown and friends (9 Aug 2022, Monash University)"
+    "text": "PRESENTATIONS AND WORKSHOPS"
   },
   {
     "objectID": "resume.html#references",
     "href": "resume.html#references",
-    "title": "Curriculum Vitae",
+    "title": "Fahim Ahmed, MS, EIT",
     "section": "References",
     "text": "References\nAvailable upon request"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Hello! Nice to Meet You.",
     "section": "",
-    "text": "Fahim Ahmed is working as a Associate System Performance Engineer with South Carolina Department of Transportation (SCDOT). In his role in the Office of Planning at SCDOT, he prepares and analyzes tranportation data to develop performance metrics and statewide travel demand model to help stakeholders make data-driven decision.\nFahim Ahmed is also a Ph.D. candidate studying Civil Engineering (Dissertation on Transportation Engr.) at University of South Carolina. His research interest is in the topic of freight system performance, vehicle routing, and traffic safety. Currently, he is working with Dr. Nathan Huynh to develop a solution for truck (re-)routing under disruptive environment in a distribution network."
+    "text": "About This Site\nThis site\nThe site primarily serves me to express myself to the world with words. This site has two purposes:\n(i) Introduce myself (Fahim Ahmed) to the world (ii) Learn in public\nI’ll elaborate here briefly scope of the site."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Fahim Ahmed",
     "section": "",
-    "text": "Fahim Ahmed is working as a Highway Safety Design Engineer with South Carolina Department of Transportation (SCDOT). In his role in the Traffic Safety Office at SCDOT, he prepares highway designs for safety improvement projects."
+    "text": "Fahim Ahmed is working as a Highway Safety Design Engineer with the South Carolina Department of Transportation (SCDOT). In his role in the Traffic Safety Office at SCDOT, he prepares Roadway Design Plans for Intersection Improvement Projects.\nFahim Ahmed is a Ph.D. candidate studying Civil Engineering (Dissertation on Transportation Engr.) at University of South Carolina. His research interest is in the topic of freight system performance, vehicle routing, and traffic safety. Currently, he is working with Dr. Nathan Huynh (https://engineering.unl.edu/civil/person/nathan-huynh/) to develop a solution for truck (re-)routing under disruptive environment in a distribution network."
   },
   {
     "objectID": "notes/Ivy-Lee-method-of-Gets-Things-Done/index.html",
@@ -77,17 +77,10 @@
     "text": "The process of Ivy Lee Method of getting things done is as follows:\n\nAt the end of day, write down 6 tasks with priority to do the next day.\nStart with first task and keep working on it until finished.\nMove to next task if first task is finished.\nRepeat the Steps 1-3.\n\n\nSpill-over of tasks to the following day is allowed."
   },
   {
-    "objectID": "posts/test_with_python/index.html",
-    "href": "posts/test_with_python/index.html",
-    "title": "Test Python Code for Quarto",
-    "section": "",
-    "text": "Code\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2* np.pi *r \nfig, ax = plt.subplots(subplot_kw={'projection': 'polar'})\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()"
-  },
-  {
     "objectID": "notes.html",
     "href": "notes.html",
     "title": "Notes",
     "section": "",
-    "text": "Title\n\n\nAuthor\n\n\n\n\n\n\nIvy Lee method of Gets Things Done\n\n\nFA \n\n\n\n\n\nNo matching items"
+    "text": "Title\n\n\n\nAuthor\n\n\n\n\n\n\n\n\nIvy Lee method of Gets Things Done\n\n\nFA \n\n\n\n\n\n\nNo matching items"
   }
 ]
