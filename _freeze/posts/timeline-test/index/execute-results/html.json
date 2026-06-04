@@ -1,0 +1,12 @@
+{
+  "hash": "77c1a4240e38a99eccde8e5ef44648c3",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"Quran: Surah Revealed by Location\"\nauthor: \"Fahim Ahmed\"\ndate: \"2025-03-13\"\n\nfilters:\n  - timeline\ncategories: [surah, timeline]\nimage: \"image.jpg\"\n---\n\n\n::: timeline\n::: {.event data-label=\"Mecca\"}\n**610CE: First Revelation**    \nAt the age of 40 years old received first revelation in Cave of Hira, Mecca.\n:::\n::: {.event data-label=\"Medina\"}\n**622CE: Hijra (Migration)**  \nAt the age of 52 years old migrated from Mecca to Medina.\n:::\n::: {.event data-label=\"Medina\"}\n**630CE: Conquest of Mecca**  \nAt the age of 60 years conquered Mecca without bloodshed.  He returned to Medina\nto Live there.\n:::\n::: {.event data-label=\"Medina\"}\n**632CE: Death**  \nAt the age of 63 years old died in Medina.\n:::\n\n\n\n:::\n\n::: {.timeline .vertical-alt .tl-label-banner}\n::: {.event  data-label=\"Makki\"}\n1\nSurah Al-Fatiha\n:::\n\n::: {.event  data-label=\"Makki\"}\n6\nSurah Al-An'am\n:::\n\n::: {.event  data-label=\"Makki\"}\n7\nSurah Al-Araf\n:::\n\n::: {.event  data-label=\"Makki\"}\n10\nSurah Yunus\n:::\n\n::: {.event  data-label=\"Madani\"}\n2\nSurah Al-Baqarah\n:::\n\n::: {.event  data-label=\"Madani\"}\n3\nSurah Al-I'mran\n:::\n\n::: {.event  data-label=\"Madani\"}\n4\nSurah An-Nisa\n:::\n\n::: {.event  data-label=\"Madani\"}\n5\nSurah Al-Maidah\n:::\n\n::: {.event  data-label=\"Madani\"}\n8\nSurah Al-Anfal\n:::\n\n::: {.event  data-label=\"Madani\"}\n9\nSurah At-Tawba\n:::\n\n:::\n\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

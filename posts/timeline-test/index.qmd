@@ -1,0 +1,69 @@
+---
+title: "Quran: Surah Revealed by Location"
+author: "Fahim Ahmed"
+date: "2025-03-13"
+
+filters:
+  - timeline
+categories: [surah, timeline]
+image: "image.jpg"
+---
+
+::::::::: timeline
+::: {.event data-label="Mecca (570CE - 621CE)"}
+**570CE: Birth of Prophet Muhammad (SM)**
+Born in Mecca.
+:::
+
+::: {.event data-label="Mecca (570CE - 621CE)"}
+**610CE: First Revelation**
+At the age of 40 years old received first revelation in Cave of Hira, Mecca.
+:::
+
+::: {.event data-label="Mecca (570CE - 621CE)"}
+**Surahs Reveal in Medina ()**
+1 Surah Al-Fatiha (The Opening)
+:::
+
+::: {.event data-label="Medina (622CE - 632CE)"}
+**622CE: Hijra (Migration)**
+At the age of 52 years old migrated from Mecca to Medina.
+:::
+
+::: {.event data-label="Medina (622CE - 632CE)"}
+**632CE: Death**
+At the age of 63 years old died in Medina.
+:::
+
+::: {.event data-label="Medina (622CE - 632CE)"}
+**Surahs Reveal in Medina (28)**    
+1. Surah Al-Baqara (2 - The Cow)    
+2. Surah Al-I'mran (3- The family of Imran)    
+3. Surah An-Nisa (4- Women)    
+4. Surah Al-Mai'dah (5- The Table Spread)    
+5. Surah Al-Anfaal (8- Spoils of War)    
+6. Surah At-Tawba (9- Repentance)    
+7. Surah Ar-Ra'd (13- The Thunder)    
+8. Surah Al-Hajj (22- The Pilgrimage)    
+9  Surah Al-Noor (24- The Light)    
+10. Surah Al-Ahzaab (33- The Clans)    
+11. Surah Muhammad (47)    
+12. Surah Al-Fath (48)    
+13. Surah Al-Hujurat (49)    
+14. Surah Ar-Rahman (55)    
+15. Surah Al-Hadid (57)    
+16. Surah Al-Mujadilah (58)    
+17. Surah Al-Hashr (59)    
+18. Surah Al-Mumtahanah (60)    
+19. Surah As-Saff (61)    
+20. Surah Al-Jumu'ah (62)    
+21. Surah Al-Munafiqun (63)    
+22. Surah Al-Taghabun (64)    
+23. Surah At-Talaq (65)    
+24. Surah At-Tahrim (66)    
+25. Surah Al-Insan (76)    
+26. Surah Al-Bayyinah (98)    
+27. Surah Az-Zalzalah (99)    
+28. Surah An-Nasr (110)    
+:::
+:::::::::
