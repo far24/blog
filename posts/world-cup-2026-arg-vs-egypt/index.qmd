@@ -1,0 +1,16 @@
+---
+title: "Experiencing Argentina vs. Egypt match in FIFA Football World Cup 2026 at Atlanta"
+author: "Fahim Ahmed"
+date: "2026-07-10"
+categories: [soccer, experience]
+title-block-banner: "#1656AD"
+title-block-banner-color: "white"
+
+---
+
+Last Tuesday (July 7, 2026), I had the opportunity to witness a football game between Argentina and Egypt. As a football fan, this was an one the best experience in my life.  I cannot thank my wife enough for buying the ticket for me as gift.  I gift has a special place in my life.
+
+<iframe src="pics.html" width="100%" height="500px" style="border: 1px solid #ccc;"></iframe>
+
+
+

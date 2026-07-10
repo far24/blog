@@ -1,0 +1,14 @@
+---
+title: "Gallary: Argentina vs. Egypt"
+format: 
+  revealjs:
+    embed-resources: true
+---
+
+## Mercedez-Benz Stadium at Atlanta
+
+##  {background-image="PXL_20260707_155028319.MP.jpg" background-size="cover"}
+
+##  {background-image="PXL_20260707_160138819.jpg" background-size="cover"}
+
+##  {background-image="PXL_20260707_152438554.jpg" background-size="cover"}

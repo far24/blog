@@ -1,0 +1,42 @@
+---
+title: "Words in English"
+author: "Fahim Ahmed"
+categories: [dict, english]
+image: "image.jpg"
+format: 
+  html:
+    theme: cosmo
+    page-layout: full
+execute:
+  echo: false
+---
+
+
+## Live Vocabulary Database
+
+This database pulls directly from Google Sheets in real-time. Use the search bars at the top of each column to filter your entries.
+
+```{r}
+#| message: false
+#| warning: false
+
+# 1. Load the required libraries
+library(googlesheets4)
+library(DT)
+
+# 2. Tell R not to look for interactive Google login credentials
+gs4_deauth()
+
+# 3. Paste your public Google Sheet URL below
+sheet_url <- "https://docs.google.com/spreadsheets/d/1UQ5yqoBFqsCI7dBAHGYnTNFD9OY_AHntwj4dAkTiqTg/edit?usp=sharing"
+
+# 4. Read the data directly from the cloud
+dictionary_data <- read_sheet(sheet_url)
+
+# 5. Display the data in an interactive searchable table
+datatable(dictionary_data, 
+          filter = 'top',
+          width = '100%',
+          options = list(pageLength = 15, autoWidth = TRUE),
+          rownames = FALSE)
+```

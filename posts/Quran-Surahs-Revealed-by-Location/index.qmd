@@ -1,5 +1,5 @@
 ---
-title: "Quran: Surah Revealed by Location"
+title: "Quran: Surahs Revealed by Location"
 author: "Fahim Ahmed"
 date: "2025-03-13"
 

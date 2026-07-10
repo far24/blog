@@ -17,6 +17,8 @@ website:
         href: about.qmd
       - text: CV
         href: resume.qmd
+      - text: My Dict
+        href: dict.qmd
       - icon: github
         href: https://github.com/
       - icon: twitter

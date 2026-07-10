@@ -16,31 +16,35 @@ Fahim Ahmed \|\| 803-904-6752 \|\| fahim.ahmed.rd{at}gmail.com
 :::
 
 ## ABOUT
+
 I am a Highway Designer at the SCDOT.
 
 ## WORK EXPERIENCE {style="page-break-before: always"}
+
 ### Highway Safety Design Engineer II
-***SCDOT*** [Mar 2025 -- Present]{.cvdate}  
+
+***SCDOT*** [Mar 2025 -- Present]{.cvdate}
 
 ### Associate System Performance Engineer
-***SCDOT*** [Sep 2022 -- Feb 2025]{.cvdate}  
+
+***SCDOT*** [Sep 2022 -- Feb 2025]{.cvdate}
 
 ### Graduate Research Assistant
-***University of South Carolina*** [Aug 2015 -- Dec 2022]{.cvdate}  
+
+***University of South Carolina*** [Aug 2015 -- Dec 2022]{.cvdate}
 
 ## EDUCATION
 
-**Ph.D. Candidate -- Civil Engineering** <br> *University of South Carolina* [*Present*]{.cvdate}  
-**Master in Applied Statistics --** <br> *University of South Carolina* [*2020*]{.cvdate}  
-**Master of Science --** <br> *University of South Carolina* [*2018*]{.cvdate}  
-**Bachelor of Science --** <br> *Bangladesh University of Engr. & Tech. (BUET)* [*2014*]{.cvdate}  
-
+**Ph.D. Candidate -- Civil Engineering** <br> *University of South Carolina* [*Present*]{.cvdate}\
+**Master in Applied Statistics --** <br> *University of South Carolina* [*2020*]{.cvdate}\
+**Master of Science --** <br> *University of South Carolina* [*2018*]{.cvdate}\
+**Bachelor of Science --** <br> *Bangladesh University of Engr. & Tech. (BUET)* [*2014*]{.cvdate}
 
 ## TEACHING
+
 ### Instructor
-***University of South Carolina*** [Aug 2019 -- Dec 2022]{.cvdate}  
 
-
+***University of South Carolina*** [Aug 2019 -- Dec 2022]{.cvdate}
 
 ::: no-print
 ## PRESENTATIONS AND WORKSHOPS

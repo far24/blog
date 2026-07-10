@@ -36,5 +36,20 @@
   },
   "posts/timeline-test/index.qmd": {
     "index.html": "f85bb38e"
+  },
+  "posts/Quran-Surahs-Revealed-by-Location/index.qmd": {
+    "index.html": "38f21c09"
+  },
+  "posts/muhammad-marriage/index.qmd": {
+    "index.html": "1d5c8407"
+  },
+  "dict.qmd": {
+    "dict.html": "6fe0b09d"
+  },
+  "posts/world-cup-2026-arg-vs-egypt/index.qmd": {
+    "index.html": "698803d0"
+  },
+  "posts/world-cup-2026-arg-vs-egypt/pics.qmd": {
+    "pics.html": "a3ab35de"
   }
 }
