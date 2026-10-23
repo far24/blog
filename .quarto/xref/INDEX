@@ -51,5 +51,20 @@
   },
   "posts/world-cup-2026-arg-vs-egypt/pics.qmd": {
     "pics.html": "a3ab35de"
+  },
+  "posts/islamicHistoryTimeline/index.qmd": {
+    "index.html": "be609df1"
+  },
+  "posts/moviesList/index.qmd": {
+    "index.html": "b163b904"
+  },
+  "notes/Quran-Surahs-Revealed-by-Location/index.qmd": {
+    "index.html": "9c92db2a"
+  },
+  "notes/islamicHistoryTimeline/index.qmd": {
+    "index.html": "f66c46ba"
+  },
+  "notes/muhammad-marriage/index.qmd": {
+    "index.html": "b8e8713a"
   }
 }

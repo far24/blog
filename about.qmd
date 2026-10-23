@@ -6,15 +6,11 @@ about:
   template: trestles
 ---
 
-# About This Site   
+# About This Site
 
-This site 
+This site
 
-The site primarily serves me to express myself to the world with words. This site has two purposes:  
-(i) Introduce myself (Fahim Ahmed) to the world
-(ii) Learn in public
+The site primarily serves me to express myself to the world with words. This site has two purposes:\
+(i) Introduce myself (Fahim Ahmed) to the world (ii) Learn in public
 
 I'll elaborate here briefly scope of the site.
-
-
-

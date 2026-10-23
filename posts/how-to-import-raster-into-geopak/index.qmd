@@ -1,7 +1,0 @@
----
-title: "How to import raster / image in Geopak"
-author: "Fahim Ahmed"
-date: "2025-03-13"
-categories: [geopak, image]
-image: "image.jpg"
----

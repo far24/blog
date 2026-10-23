@@ -1,0 +1,164 @@
+---
+title: "Quran: Surahs Revealed by Location"
+author: "Fahim Ahmed"
+date: "2025-03-13"
+filters:
+  - timeline
+categories: [surah, timeline]
+image: "image.jpg"
+---
+
+::::::::: timeline
+
+::: {.event data-label="570CE - 621CE" }
+**MECCA**
+:::
+
+::: {.event data-label="570CE - 621CE" .text-start}
+**570CE: Birth of Prophet Muhammad (SM)** Born in Mecca.
+:::
+
+::: {.event data-label="570CE - 621CE" .text-start}
+**610CE: First Revelation** At the age of 40 years old received first revelation in Cave of Hira, Mecca.
+:::
+
+::: {.event data-label="570CE - 621CE" .text-start}
+**Surahs Reveal in Mecca (86)**       
+1. Al-Fatihah (Chapter 1)     
+2. Al-An'am (Chapter 6)     
+3. Al-A'raf (Chapter 7)     
+4. Yunus (Chapter 10)     
+5. Hud (Chapter 11)     
+6. Yusuf (Chapter 12)     
+7. Ibrahim (Chapter 14)     
+8. Al-Hijr (Chapter 15)     
+9. An-Nahl (Chapter 16)     
+10. Al-Isra (Chapter 17)     
+11. Al-Kahf (Chapter 18)     
+12. Maryam (Chapter 19)     
+13. Ta-Ha (Chapter 20)     
+14. Al-Anbiya (Chapter 21)     
+15. Al-Mu'minun (Chapter 23)     
+16. Al-Furqan (Chapter 25)     
+17. Ash-Shu'ara (Chapter 26)     
+18. An-Naml (Chapter 27)     
+19. Al-Qasas (Chapter 28)     
+20. Al-'Ankabut (Chapter 29)     
+21. Ar-Rum (Chapter 30)     
+22. Luqman (Chapter 31)     
+23. As-Sajdah (Chapter 32)     
+24. Saba (Chapter 34)     
+25. Fatir (Chapter 35)     
+26. Ya-Sin (Chapter 36)     
+27. As-Saffat (Chapter 37)     
+28. Sad (Chapter 38)     
+29. Az-Zumar (Chapter 39)     
+30. Ghafir (Chapter 40)     
+31. Fussilat (Chapter 41)     
+32. Ash-Shura (Chapter 42)     
+33. Az-Zukhruf (Chapter 43)     
+34. Ad-Dukhan (Chapter 44)     
+35. Al-Jathiyah (Chapter 45)     
+36. Al-Ahqaf (Chapter 46)     
+37. Qaf (Chapter 50)     
+38. Adh-Dhariyat (Chapter 51)     
+39. At-Tur (Chapter 52)     
+40. An-Najm (Chapter 53)     
+41. Al-Qamar (Chapter 54)     
+42. Al-Waqi'ah (Chapter 56)     
+43. Al-Mulk (Chapter 67)     
+44. Al-Qalam (Chapter 68)     
+45. Al-Haqqah (Chapter 69)     
+46. Al-Ma'arij (Chapter 70)     
+47. Nuh (Chapter 71)     
+48. Al-Jinn (Chapter 72)     
+49. Al-Muzzammil (Chapter 73)     
+50. Al-Muddaththir (Chapter 74)     
+51. Al-Qiyamah (Chapter 75)     
+52. Al-Mursalat (Chapter 77)     
+53. An-Naba (Chapter 78)     
+54. An-Nazi'at (Chapter 79)     
+55. 'Abasa (Chapter 80)     
+56. At-Takwir (Chapter 81)     
+57. Al-Infitar (Chapter 82)     
+58. Al-Mutaffifin (Chapter 83)     
+59. Al-Inshiqaq (Chapter 84)     
+60. Al-Buruj (Chapter 85)     
+61. At-Tariq (Chapter 86)     
+62. Al-A'la (Chapter 87)     
+63. Al-Ghashiyah (Chapter 88)     
+64. Al-Fajr (Chapter 89)     
+65. Al-Balad (Chapter 90)     
+66. Ash-Shams (Chapter 91)     
+67. Al-Layl (Chapter 92)     
+68. Ad-Duha (Chapter 93)     
+69. Ash-Sharh (Chapter 94)     
+70. At-Tin (Chapter 95)     
+71. Al-'Alaq (Chapter 96)     
+72. Al-Qadr (Chapter 97)     
+73. Al-Zalzalah (Chapter 99)     
+74. Al-'Adiyat (Chapter 100)     
+75. Al-Qari'ah (Chapter 101)     
+76. At-Takathur (Chapter 102)     
+77. Al-'Asr (Chapter 103)     
+78. Al-Humazah (Chapter 104)     
+79. Al-Fil (Chapter 105)     
+80. Quraysh (Chapter 106)     
+81. Al-Ma'un (Chapter 107)     
+82. Al-Kawthar (Chapter 108)     
+83. Al-Kafirun (Chapter 109)     
+84. Al-Ikhlas (Chapter 112)     
+85. Al-Falaq (Chapter 113)     
+86. An-Nas (Chapter 114)     
+
+
+:::
+
+::: {.event data-label="622CE - 632CE" }
+**MEDINA**
+:::
+
+
+
+
+::: {.event data-label="622CE - 632CE" .text-start}
+**622CE: Hijra (Migration)** At the age of 52 years old migrated from Mecca to Medina.
+:::
+
+::: {.event data-label="622CE - 632CE" .text-start}
+
+**632CE: Death** At the age of 63 years old died in     house of his wife Aisha, near the mosque in Medina (Al-Masjid an-Nabawi) in Medina.
+:::
+
+::: {.event data-label="622CE - 632CE" .text-start}
+**Surahs Reveal in Medina (28)**\
+1. Surah Al-Baqara (2 - The Cow)\
+2. Surah Al-I'mran (3- The family of Imran)\
+3. Surah An-Nisa (4- Women)\
+4. Surah Al-Mai'dah (5- The Table Spread)\
+5. Surah Al-Anfaal (8- Spoils of War)\
+6. Surah At-Tawba (9- Repentance)\
+7. Surah Ar-Ra'd (13- The Thunder)\
+8. Surah Al-Hajj (22- The Pilgrimage)\
+9 Surah Al-Noor (24- The Light)\
+10. Surah Al-Ahzaab (33- The Clans)\
+11. Surah Muhammad (47)\
+12. Surah Al-Fath (48)\
+13. Surah Al-Hujurat (49)\
+14. Surah Ar-Rahman (55)\
+15. Surah Al-Hadid (57)\
+16. Surah Al-Mujadilah (58)\
+17. Surah Al-Hashr (59)\
+18. Surah Al-Mumtahanah (60)\
+19. Surah As-Saff (61)\
+20. Surah Al-Jumu'ah (62)\
+21. Surah Al-Munafiqun (63)\
+22. Surah Al-Taghabun (64)\
+23. Surah At-Talaq (65)\
+24. Surah At-Tahrim (66)\
+25. Surah Al-Insan (76)\
+26. Surah Al-Bayyinah (98)\
+27. Surah Az-Zalzalah (99)\
+28. Surah An-Nasr (110)
+:::
+:::::::::

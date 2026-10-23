@@ -8,7 +8,7 @@ title-block-banner-color: "white"
 
 ---
 
-Last Tuesday (July 7, 2026), I had the opportunity to witness a football game between Argentina and Egypt. As a football fan, this was an one the best experience in my life.  I cannot thank my wife enough for buying the ticket for me as gift.  I gift has a special place in my life.
+Last Tuesday (July 7, 2026), I had the opportunity to witness a World Cup Football game between Argentina and Egypt. As a football fan, this was an one the best experience in my life.  I cannot thank my wife enough for buying the ticket for me as gift.  I gift has a special place in my life.
 
 <iframe src="pics.html" width="100%" height="500px" style="border: 1px solid #ccc;"></iframe>
 

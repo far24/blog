@@ -1,0 +1,34 @@
+---
+title: "Movies To Watch or Watched"
+author: "Fahim Ahmed"
+date: "2026-10-23"
+categories: [movies]
+title-block-banner: "black"
+title-block-banner-color: "white"
+---
+
+# List of Movies
+
+## To Watch 
+### Year of 2026
+
+## Watched 
+### Year of 2025 
+
+| Media     | Type        |   Title                         | Language  | Year Released | Plot Summary                          |
+|-----------|-------------|:-------------------------------:|:---------:|:-------------:|---------------------------------------|
+| TV Series | Drama       | My Mister                       | Korean    | 2018          | [Plot](https://www.imdb.com/title/tt7923710/) |
+| TV Series | Crime-drama | Deadwind                        | Finnish   | 2018-2021     | [Plot](https://www.imdb.com/title/tt6616260/) |
+| TV Series | Drama       | Dastak                          | Pakistani | 2025          | [Plot](https://www.imdb.com/title/tt35667223/?ref_=mv_close) |
+| TV Series | Crime-Drama | Vandhani - Fable of Velonie     | Tamil     | 2022          | [Plot](https://www.imdb.com/title/tt21908550/) |
+| TV Series | Crime-Drama | Officer on Duty                 | Malayalam | 2025          | [Plot](https://www.imdb.com/title/tt34388152/) |
+
+
+### Year of 2026 
+| Media     | Type        |   Title                         | Language  | Year Released | Plot Summary                          |
+|-----------|-------------|:-------------------------------:|:---------:|:-------------:|---------------------------------------|
+| TV Series | Drama       | Dr. Bahu                        | Pakistani | 2026          | [Plot](https://www.imdb.com/title/tt41154283/) |
+| TV Series | Drama       | Leader                          | Pakistani | 2026          | [Plot](https://www.imdb.com/title/tt43640939/) |
+
+
+# My Reviews

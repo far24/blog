@@ -80,9 +80,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
       
-      searchColumns: ["listing-title","listing-author"],
+      searchColumns: ["listing-date","listing-title","listing-author"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -226,7 +226,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="aGlzdG9yeQ==">history <span class="quarto-category-count">(1)</span></div><div class="category" data-category="aXNsYW0=">islam <span class="quarto-category-count">(1)</span></div><div class="category" data-category="c3VyYWg=">surah <span class="quarto-category-count">(2)</span></div><div class="category" data-category="dGltZWxpbmU=">timeline <span class="quarto-category-count">(2)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -244,6 +244,10 @@ window.Quarto = {
 <tr>
 
 <th>
+Date
+</th>
+
+<th>
 Title
 </th>
 
@@ -257,10 +261,52 @@ Author
 
 <tr data-index="0" data-listing-file-modified-sort="1734639614255" data-listing-reading-time-sort="1" data-listing-word-count-sort="62" data-listing-title-sort="Ivy Lee method of Gets Things Done" data-listing-filename-sort="index.qmd">
 <td>
+<span class="listing-date">&nbsp;</span>
+</td>
+<td>
 <a href="./notes/Ivy-Lee-method-of-Gets-Things-Done/index.html" class="title listing-title">Ivy Lee method of Gets Things Done</a>
 </td>
 <td>
 <span class="listing-author">FA </span>
+</td>
+
+</tr>
+
+<tr data-index="1" data-categories="aXNsYW0lMkNoaXN0b3J5" data-listing-date-sort="1783641600000" data-listing-file-modified-sort="1792760026429" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="8" data-listing-title-sort="Islamic History Timeline" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Jul 10, 2026</span>
+</td>
+<td>
+<a href="./notes/islamicHistoryTimeline/index.html" class="title listing-title">Islamic History Timeline</a>
+</td>
+<td>
+<span class="listing-author">Fahim Ahmed</span>
+</td>
+
+</tr>
+
+<tr data-index="2" data-categories="c3VyYWglMkN0aW1lbGluZQ==" data-listing-date-sort="1741824000000" data-listing-file-modified-sort="1792765011579" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="919" data-listing-title-sort="Quran: Surahs Revealed by Location" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Mar 13, 2025</span>
+</td>
+<td>
+<a href="./notes/Quran-Surahs-Revealed-by-Location/index.html" class="title listing-title">Quran: Surahs Revealed by Location</a>
+</td>
+<td>
+<span class="listing-author">Fahim Ahmed</span>
+</td>
+
+</tr>
+
+<tr data-index="3" data-categories="c3VyYWglMkN0aW1lbGluZQ==" data-listing-date-sort="1741824000000" data-listing-file-modified-sort="1780602702590" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="314" data-listing-title-sort="Quran: Surahs Revealed by Location" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Mar 13, 2025</span>
+</td>
+<td>
+<a href="./notes/muhammad-marriage/index.html" class="title listing-title">Quran: Surahs Revealed by Location</a>
+</td>
+<td>
+<span class="listing-author">Fahim Ahmed</span>
 </td>
 
 </tr>
