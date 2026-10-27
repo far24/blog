@@ -9,26 +9,33 @@ title-block-banner-color: "white"
 
 # List of Movies
 
-## To Watch 
+## To Watch
+
+* [Big World (2024)](https://www.youtube.com/watch?v=_ZW3D05aHnM)
+"The story follows Liu Chunhe (Jackson Yee), a 20-year-old man living with cerebral palsy who fights for personal independence, seeks to mend relationships with his conflicted mother, and works to fulfill his grandmother's dream of performing on stage."
+* [The Big Short](https://pluto.tv/us/movies/5c6c865dbb225fd2ebadbfc3/?utm_medium=textsearch&utm_source=google#open)
+"The Big Short is a 2015 biographical comedy-drama film directed by Adam McKay that follows a group of investors who bet against the US mortgage market prior to the 2008 financial crisis."
+
+
 ### Year of 2026
 
-## Watched 
-### Year of 2025 
+## Watched
 
-| Media     | Type        |   Title                         | Language  | Year Released | Plot Summary                          |
-|-----------|-------------|:-------------------------------:|:---------:|:-------------:|---------------------------------------|
-| TV Series | Drama       | My Mister                       | Korean    | 2018          | [Plot](https://www.imdb.com/title/tt7923710/) |
-| TV Series | Crime-drama | Deadwind                        | Finnish   | 2018-2021     | [Plot](https://www.imdb.com/title/tt6616260/) |
-| TV Series | Drama       | Dastak                          | Pakistani | 2025          | [Plot](https://www.imdb.com/title/tt35667223/?ref_=mv_close) |
-| TV Series | Crime-Drama | Vandhani - Fable of Velonie     | Tamil     | 2022          | [Plot](https://www.imdb.com/title/tt21908550/) |
-| TV Series | Crime-Drama | Officer on Duty                 | Malayalam | 2025          | [Plot](https://www.imdb.com/title/tt34388152/) |
+### Year of 2025
 
+| Media | Type | Title | Language | Year Released | Plot Summary |
+|-----------|-----------|:-----------:|:---------:|:---------:|----------------|
+| TV Series | Drama | My Mister | Korean | 2018 | [Plot](https://www.imdb.com/title/tt7923710/) |
+| TV Series | Crime-drama | Deadwind | Finnish | 2018-2021 | [Plot](https://www.imdb.com/title/tt6616260/) |
+| TV Series | Drama | Dastak | Pakistani | 2025 | [Plot](https://www.imdb.com/title/tt35667223/?ref_=mv_close) |
+| TV Series | Crime-Drama | Vandhani - Fable of Velonie | Tamil | 2022 | [Plot](https://www.imdb.com/title/tt21908550/) |
+| TV Series | Crime-Drama | Officer on Duty | Malayalam | 2025 | [Plot](https://www.imdb.com/title/tt34388152/) |
 
-### Year of 2026 
-| Media     | Type        |   Title                         | Language  | Year Released | Plot Summary                          |
-|-----------|-------------|:-------------------------------:|:---------:|:-------------:|---------------------------------------|
-| TV Series | Drama       | Dr. Bahu                        | Pakistani | 2026          | [Plot](https://www.imdb.com/title/tt41154283/) |
-| TV Series | Drama       | Leader                          | Pakistani | 2026          | [Plot](https://www.imdb.com/title/tt43640939/) |
+### Year of 2026
 
+| Media | Type | Title | Language | Year Released | Plot Summary |
+|-----------|-----------|:-----------:|:---------:|:---------:|----------------|
+| TV Series | Drama | Dr. Bahu | Pakistani | 2026 | [Plot](https://www.imdb.com/title/tt41154283/) |
+| TV Series | Drama | Leader | Pakistani | 2026 | [Plot](https://www.imdb.com/title/tt43640939/) |
 
 # My Reviews
